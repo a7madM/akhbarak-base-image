@@ -5,7 +5,7 @@ git_source(:github) { |repo| 'https://github.com/#{repo}.git' }
 ruby '2.6.6'
 
 gem 'rails', '~> 5.1'
-gem 'kaminari', '~> 1.1.1'
+gem 'kaminari', '~> 1.2.1'
 gem 'garb', '0.9.8'
 gem 'cocaine', '0.5.5'
 gem 'mysql2', '0.5.2'
